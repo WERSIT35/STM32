@@ -1,0 +1,33 @@
+Dependencies for Project 'L0_ADC_DEMO', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
+F (.\main.c)(0x67C58B9D)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-D__UVISION_VERSION="540" -DSTM32L031xx -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h)(0x66E95DFF)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l031xx.h)(0x66E95DFE)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E7502)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h)(0x66E95DFF)
+I (delay.h)(0x66E2CFD7)
+F (.\delay.c)(0x66E2CFD7)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-D__UVISION_VERSION="540" -DSTM32L031xx -D_RTE_-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (delay.h)(0x66E2CFD7)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h)(0x66E95DFF)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l031xx.h)(0x66E95DFE)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E7502)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h)(0x66E95DFF)
+F (.\delay.h)(0x66E2CFD7)()
+F (RTE/Device/STM32L031K6Tx/startup_stm32l031xx.s)(0x65E70B9F)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include--pd "__UVISION_VERSION SETA 540" --pd "STM32L031xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32l031xx.lst --xref -o .\objects\startup_stm32l031xx.o --depend .\objects\startup_stm32l031xx.d)
+F (RTE/Device/STM32L031K6Tx/system_stm32l0xx.c)(0x65E70B9F)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-D__UVISION_VERSION="540" -DSTM32L031xx -D_RTE_-o .\objects\system_stm32l0xx.o --omf_browse .\objects\system_stm32l0xx.crf --depend .\objects\system_stm32l0xx.d)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h)(0x66E95DFF)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l031xx.h)(0x66E95DFE)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E7502)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x66E95E3E)
+I (C:\Users\okupa\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h)(0x66E95DFF)
